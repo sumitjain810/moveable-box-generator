@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+## Features
+1. Add Box
+2. Select Box, 
+3. Move Box, 
+4. Delete Box, 
+5. Toggle Keyboard, 
+6. Restrict Within main container
