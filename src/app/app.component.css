@@ -1,0 +1,24 @@
+button {
+    margin-left: 10px;
+}
+
+.box-container {
+  border: 1px solid black;
+  height: 500px;
+  width: 500px;
+  margin: 10px;
+}
+
+.box {
+  border: 1px solid grey;
+  height: 50px;
+  width: 50px;
+  background-color: white;
+}
+
+.box-selected {
+  border: 1px solid blue;
+  height: 50px;
+  width: 50px;
+  background-color: blue;
+}
